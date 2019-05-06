@@ -1,0 +1,16 @@
+skill:
+  accounting: 5
+  appraise: 5
+  archaeology: 1
+  art/craft: 5
+  charm: 15
+  climb: 20
+  computer_use: 0
+  credit_rating: 0
+  cthulhu_mythos: 0
+  demolitions: 1
+  disguise: 5
+  driving: 1
+  dodge:
+    formula: "dex * 0.5"
+  drive_auto: 20

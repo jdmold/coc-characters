@@ -1,0 +1,44 @@
+first_name: Clyde
+last_name: Drexler
+player: Konrad
+age: 28
+birthday: 1892-09-11
+birthplace: "New York"
+sex: male
+residence: ""
+characteristics:
+  - strength: 65
+  - constituation: 60
+  - size: 60
+  - dexterity: 80
+  - education: 60
+  - intelligence: 80
+  - power: 70
+  - movement_rate: 9
+current_hitpoints: 23
+max_hit_points: 24
+luck: 90
+current_sanity: 65
+max_sanity: 99
+current_magic_points: 14
+max_magic_points: 14
+damage_bonus: 1d4
+build: 1
+skills:
+  - climb: 40
+  - credit_rating: 15
+  - dodge: 60
+  - drive_auto: 20
+  - fast_talk: 70
+  - fighting_brawl: 55
+  - firearms_handgun: 80
+  - jump: 40
+  - listen: 60
+  - mechanical_repair: 60
+  - navigate: 90
+  - psychology: 55
+  - spot_hidden: 45
+  - stealth: 80
+  - throw: 40
+
+

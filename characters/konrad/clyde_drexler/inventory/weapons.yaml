@@ -1,0 +1,24 @@
+weapons:
+  - weapon: "Colt Government 1911"
+    skill: "firearms (handgun)"
+    damage: "1d10+2"
+    base_range: 15
+    rate_of_fire: "1(2)"
+    capacity: "7+1"
+    malfunction: 99
+    notes: ""
+    regular:
+    hard:
+    extreme:
+    clip_size: 7
+    clips: 10
+  - weapon: "knife"
+    skill: "fighting (brawl)"
+    damage:
+    regular:
+    hard:
+    extreme:
+  - weapon: "dynamite"
+    damage: "4d10"
+    ammo: 6
+
